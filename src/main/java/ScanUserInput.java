@@ -4,7 +4,7 @@ public class ScanUserInput {
     public static void main(String[] args) {
         // create scanner object from the Scanner class
         Scanner scanner = new Scanner(System.in);
-
+        //Hello
         // instruct user
         System.out.println("Please enter a word:");
 
